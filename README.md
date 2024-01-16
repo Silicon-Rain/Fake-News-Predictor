@@ -4,7 +4,7 @@ It is a machine learning app used to predict whether a news is real or fake
 
 ## Model used
 
-Logistic Regression: Identifying real news as 1 and fake news as 0
+Decision-Tree classifier: Identifying real news as 1 and fake news as 0
 ```
 
 ## Contributing
